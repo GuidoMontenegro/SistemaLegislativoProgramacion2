@@ -1,0 +1,42 @@
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\bin\Debug\Practico_1.exe.config
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\bin\Debug\Practico_1.exe
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\bin\Debug\Practico_1.pdb
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\obj\Debug\Practico_1.exe
+C:\Users\Guido\Desktop\Facultad\Programacion 2\Practicos\Practico_1\Practico_1\obj\Debug\Practico_1.pdb
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\bin\Debug\Practico_1.exe.config
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\bin\Debug\Practico_1.exe
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\bin\Debug\Practico_1.pdb
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\obj\Debug\Practico_1.exe
+C:\Users\Usuario\Desktop\Facultad\Prog2\Practico_1\Practico_1\obj\Debug\Practico_1.pdb
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.exe
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.pdb
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\bin\Debug\Practico_1.exe.config
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\bin\Debug\Practico_1.exe
+C:\Users\Guido\Desktop\Entrega\Practico_1\Practico_1\bin\Debug\Practico_1.pdb
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\bin\Debug\Practico_1.exe.config
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\bin\Debug\Practico_1.exe
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\bin\Debug\Practico_1.pdb
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.exe
+C:\Users\Usuario\Desktop\Entrega\Practico_1\Practico_1\obj\Debug\Practico_1.pdb
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\bin\Debug\Practico_1.exe.config
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\bin\Debug\Practico_1.exe
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\bin\Debug\Practico_1.pdb
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.exe
+C:\Users\Usuario\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.pdb
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\bin\Debug\Practico_1.exe.config
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\bin\Debug\Practico_1.exe
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\bin\Debug\Practico_1.pdb
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.AssemblyReference.cache
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.exe
+C:\Users\Guido\Desktop\Guido Montenegro\Practico_1\Practico_1\obj\Debug\Practico_1.pdb
